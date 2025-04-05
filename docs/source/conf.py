@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Plosiv Physics'
+copyright = '2025, Plosiv'
+author = 'Plosiv'
 
 release = '0.1'
 version = '0.1.0'
