@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Plosiv Physics documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+We know making a game can be difficult work, but unless you're really looking to learn the intricacies of the creator inside-out, we recommend toying around and making discoveries by yourself or by playing other users' games. Trust us: it's more fun.
 
 .. note::
 
@@ -18,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Getting Started
+   
